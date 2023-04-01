@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (инжграф.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ingGraf.cpp
+C:\Users\Азалия\source\repos\инжграф\инжграф\ingGraf.cpp(100,49): warning C4305: аргумент: усечение из "double" в "float"
+  инжграф.vcxproj -> C:\Users\Азалия\source\repos\инжграф\Debug\ingGraf.exe

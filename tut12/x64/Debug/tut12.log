@@ -1,0 +1,5 @@
+﻿  tut12.cpp
+D:\угату\2_курс\графика\лаба_2\tut12\tut12.cpp(85,49): warning C4305: аргумент: усечение из "double" в "float"
+D:\угату\2_курс\графика\лаба_2\tut12\tut12.cpp(118,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+tut12.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class Matrix4f const * __cdecl Pipeline::GetTrans(void)" (?GetTrans@Pipeline@@QEAAPEBVMatrix4f@@XZ) в функции "void __cdecl RenderSceneCB(void)" (?RenderSceneCB@@YAXXZ).
+D:\угату\2_курс\графика\лаба_2\tut12\x64\Debug\tut12.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

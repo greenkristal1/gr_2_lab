@@ -1,0 +1,4 @@
+D:\угату\2_курс\графика\лаба_2\tut8\x64\Debug\tut8.vcxproj.CopyComplete
+D:\угату\2_курс\графика\лаба_2\tut8\x64\Debug\tut8.exe
+D:\угату\2_курс\графика\лаба_2\tut8\x64\Debug\freeglutd.dll
+D:\угату\2_курс\графика\лаба_2\tut8\x64\Debug\glew32d.dll
